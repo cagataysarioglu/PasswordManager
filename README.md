@@ -1,0 +1,1 @@
+# pyParolaYoneticisi_Qt
